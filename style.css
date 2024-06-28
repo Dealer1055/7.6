@@ -1,0 +1,40 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.email {
+    color: #000000;
+    font-size: 0.9em;
+    margin-bottom: 30px;
+}
+
+h2 {
+    font-size: 2em;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 8px;
+    color: #ca0e0e;
+    margin-bottom: 20px;
+}
+
+.box {
+    background: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(122, 122, 122, 0.1);
+}
+
+.box:hover {
+    box-shadow: 0 4px 8px rgba(80, 80, 80, 0.15);
+}
